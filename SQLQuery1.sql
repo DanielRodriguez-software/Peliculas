@@ -1,5 +1,38 @@
 CREATE DATABASE Ver
 
+-- Tabla de Roles
+ CREATE TABLE Roles (
+ 	Id INT PRIMARY KEY IDENTITY,
+ 	Nombre NVARCHAR(50) UNIQUE NOT NULL
+ );
+ GO
+
+ 
+ 
+ 
+-- Tabla de Usuarios con relación a Roles
+ CREATE TABLE Usuarios (
+ 	Id INT PRIMARY KEY IDENTITY,
+ 	Nombre NVARCHAR(100),
+ 	Email NVARCHAR(100) UNIQUE,
+ 	clave NVARCHAR(255),
+ 	RolId INT,
+ 	FOREIGN KEY (RolId) REFERENCES Roles(Id)
+ );
+ GO
+ 
+ 
+-- Insertar roles en la tabla Roles
+ INSERT INTO Roles (Nombre)
+ VALUES ('Administrador'), ('Empleado');
+ 
+select Id,Nombre from Roles;
+ select * from Usuarios;
+
+
+
+
+
 CREATE TABLE peliculas(
 id INT IDENTITY(1,1) PRIMARY KEY,
 nombre VARCHAR(50)NOT NULL,

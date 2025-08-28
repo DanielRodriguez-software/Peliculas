@@ -1,26 +1,66 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\danie\\OneDrive\\Escritorio\\Peliculas\\Peliculas\\",
+  "WorkspaceRootPath": "C:\\Users\\danie\\OneDrive\\Escritorio\\Peliculas\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C643794E-328C-44B4-A3A1-DB834E3E55BB}|Crud\\Crud.csproj|c:\\users\\danie\\onedrive\\escritorio\\peliculas\\peliculas\\crud\\frmpeliculas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C643794E-328C-44B4-A3A1-DB834E3E55BB}|Crud\\Crud.csproj|solutionrelative:crud\\frmpeliculas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A163BB03-AA7D-4A3C-834C-0747EAD415CA}|Modelo\\Modelo.csproj|c:\\users\\danie\\onedrive\\escritorio\\peliculas\\modelo\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A163BB03-AA7D-4A3C-834C-0747EAD415CA}|Modelo\\Modelo.csproj|solutionrelative:modelo\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C643794E-328C-44B4-A3A1-DB834E3E55BB}|Crud\\Crud.csproj|C:\\Users\\danie\\OneDrive\\Escritorio\\Peliculas\\Peliculas\\crud\\frmpeliculas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{C643794E-328C-44B4-A3A1-DB834E3E55BB}|Crud\\Crud.csproj|solutionrelative:crud\\frmpeliculas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A163BB03-AA7D-4A3C-834C-0747EAD415CA}|Modelo\\Modelo.csproj|C:\\Users\\danie\\OneDrive\\Escritorio\\Peliculas\\Peliculas\\modelo\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A163BB03-AA7D-4A3C-834C-0747EAD415CA}|Modelo\\Modelo.csproj|C:\\Users\\danie\\OneDrive\\Escritorio\\Peliculas\\modelo\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A163BB03-AA7D-4A3C-834C-0747EAD415CA}|Modelo\\Modelo.csproj|solutionrelative:modelo\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A163BB03-AA7D-4A3C-834C-0747EAD415CA}|Modelo\\Modelo.csproj|C:\\Users\\danie\\OneDrive\\Escritorio\\Peliculas\\Peliculas\\modelo\\peliculas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C643794E-328C-44B4-A3A1-DB834E3E55BB}|Crud\\Crud.csproj|C:\\Users\\danie\\OneDrive\\Escritorio\\Peliculas\\crud\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{C643794E-328C-44B4-A3A1-DB834E3E55BB}|Crud\\Crud.csproj|solutionrelative:crud\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A163BB03-AA7D-4A3C-834C-0747EAD415CA}|Modelo\\Modelo.csproj|C:\\Users\\danie\\OneDrive\\Escritorio\\Peliculas\\modelo\\peliculas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A163BB03-AA7D-4A3C-834C-0747EAD415CA}|Modelo\\Modelo.csproj|solutionrelative:modelo\\peliculas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C643794E-328C-44B4-A3A1-DB834E3E55BB}|Crud\\Crud.csproj|C:\\Users\\danie\\OneDrive\\Escritorio\\Peliculas\\Peliculas\\crud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C643794E-328C-44B4-A3A1-DB834E3E55BB}|Crud\\Crud.csproj|C:\\Users\\danie\\OneDrive\\Escritorio\\Peliculas\\crud\\resources\\multimedia1.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{C643794E-328C-44B4-A3A1-DB834E3E55BB}|Crud\\Crud.csproj|solutionrelative:crud\\resources\\multimedia1.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C643794E-328C-44B4-A3A1-DB834E3E55BB}|Crud\\Crud.csproj|C:\\Users\\danie\\OneDrive\\Escritorio\\Peliculas\\crud\\frmprincipalregistro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C643794E-328C-44B4-A3A1-DB834E3E55BB}|Crud\\Crud.csproj|solutionrelative:crud\\frmprincipalregistro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C643794E-328C-44B4-A3A1-DB834E3E55BB}|Crud\\Crud.csproj|C:\\Users\\danie\\OneDrive\\Escritorio\\Peliculas\\crud\\frmregistrarusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C643794E-328C-44B4-A3A1-DB834E3E55BB}|Crud\\Crud.csproj|solutionrelative:crud\\frmregistrarusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C643794E-328C-44B4-A3A1-DB834E3E55BB}|Crud\\Crud.csproj|C:\\Users\\danie\\OneDrive\\Escritorio\\Peliculas\\crud\\frnlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C643794E-328C-44B4-A3A1-DB834E3E55BB}|Crud\\Crud.csproj|solutionrelative:crud\\frnlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C643794E-328C-44B4-A3A1-DB834E3E55BB}|Crud\\Crud.csproj|C:\\Users\\danie\\OneDrive\\Escritorio\\Peliculas\\crud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C643794E-328C-44B4-A3A1-DB834E3E55BB}|Crud\\Crud.csproj|solutionrelative:crud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C643794E-328C-44B4-A3A1-DB834E3E55BB}|Crud\\Crud.csproj|C:\\Users\\danie\\OneDrive\\Escritorio\\Peliculas\\crud\\frnlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C643794E-328C-44B4-A3A1-DB834E3E55BB}|Crud\\Crud.csproj|solutionrelative:crud\\frnlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C643794E-328C-44B4-A3A1-DB834E3E55BB}|Crud\\Crud.csproj|C:\\Users\\danie\\OneDrive\\Escritorio\\Peliculas\\crud\\frmpeliculas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C643794E-328C-44B4-A3A1-DB834E3E55BB}|Crud\\Crud.csproj|solutionrelative:crud\\frmpeliculas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C643794E-328C-44B4-A3A1-DB834E3E55BB}|Crud\\Crud.csproj|C:\\Users\\danie\\OneDrive\\Escritorio\\Peliculas\\crud\\frmregistrarusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C643794E-328C-44B4-A3A1-DB834E3E55BB}|Crud\\Crud.csproj|solutionrelative:crud\\frmregistrarusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C643794E-328C-44B4-A3A1-DB834E3E55BB}|Crud\\Crud.csproj|C:\\Users\\danie\\OneDrive\\Escritorio\\Peliculas\\crud\\frmpeliculas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C643794E-328C-44B4-A3A1-DB834E3E55BB}|Crud\\Crud.csproj|solutionrelative:crud\\frmpeliculas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C643794E-328C-44B4-A3A1-DB834E3E55BB}|Crud\\Crud.csproj|C:\\Users\\danie\\OneDrive\\Escritorio\\Peliculas\\crud\\frnlogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C643794E-328C-44B4-A3A1-DB834E3E55BB}|Crud\\Crud.csproj|solutionrelative:crud\\frnlogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C643794E-328C-44B4-A3A1-DB834E3E55BB}|Crud\\Crud.csproj|C:\\Users\\danie\\OneDrive\\Escritorio\\Peliculas\\crud\\frmprincipalregistro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C643794E-328C-44B4-A3A1-DB834E3E55BB}|Crud\\Crud.csproj|solutionrelative:crud\\frmprincipalregistro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,72 +70,185 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 12,
               "Title": "frmPeliculas.cs",
-              "DocumentMoniker": "C:\\Users\\danie\\OneDrive\\Escritorio\\Peliculas\\Peliculas\\Crud\\frmPeliculas.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\OneDrive\\Escritorio\\Peliculas\\Crud\\frmPeliculas.cs",
               "RelativeDocumentMoniker": "Crud\\frmPeliculas.cs",
-              "ToolTip": "C:\\Users\\danie\\OneDrive\\Escritorio\\Peliculas\\Peliculas\\Crud\\frmPeliculas.cs",
+              "ToolTip": "C:\\Users\\danie\\OneDrive\\Escritorio\\Peliculas\\Crud\\frmPeliculas.cs",
               "RelativeToolTip": "Crud\\frmPeliculas.cs",
               "ViewState": "AgIAAEcAAAAAAAAAAAAcwFUAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-10T15:29:51.413Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Peliculas.cs",
-              "DocumentMoniker": "C:\\Users\\danie\\OneDrive\\Escritorio\\Peliculas\\Peliculas\\Modelo\\Peliculas.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\OneDrive\\Escritorio\\Peliculas\\Modelo\\Peliculas.cs",
               "RelativeDocumentMoniker": "Modelo\\Peliculas.cs",
-              "ToolTip": "C:\\Users\\danie\\OneDrive\\Escritorio\\Peliculas\\Peliculas\\Modelo\\Peliculas.cs",
+              "ToolTip": "C:\\Users\\danie\\OneDrive\\Escritorio\\Peliculas\\Modelo\\Peliculas.cs",
               "RelativeToolTip": "Modelo\\Peliculas.cs",
-              "ViewState": "AgIAAFAAAAAAAAAAAADwv2oAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAIA+wBwAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-10T15:37:09.534Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Conexion.cs",
-              "DocumentMoniker": "C:\\Users\\danie\\OneDrive\\Escritorio\\Peliculas\\Peliculas\\Modelo\\Conexion.cs",
-              "RelativeDocumentMoniker": "Modelo\\Conexion.cs",
-              "ToolTip": "C:\\Users\\danie\\OneDrive\\Escritorio\\Peliculas\\Peliculas\\Modelo\\Conexion.cs",
-              "RelativeToolTip": "Modelo\\Conexion.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAUwA0AAABFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-10T15:48:53Z",
-              "EditorCaption": ""
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\danie\\OneDrive\\Escritorio\\Peliculas\\Crud\\App.config",
+              "RelativeDocumentMoniker": "Crud\\App.config",
+              "ToolTip": "C:\\Users\\danie\\OneDrive\\Escritorio\\Peliculas\\Crud\\App.config",
+              "RelativeToolTip": "Crud\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-08-26T12:03:44.754Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "frmPeliculas.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\danie\\OneDrive\\Escritorio\\Peliculas\\Peliculas\\Crud\\frmPeliculas.cs",
-              "RelativeDocumentMoniker": "Crud\\frmPeliculas.cs",
-              "ToolTip": "C:\\Users\\danie\\OneDrive\\Escritorio\\Peliculas\\Peliculas\\Crud\\frmPeliculas.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Crud\\frmPeliculas.cs [Dise\u00F1o]",
+              "Title": "Conexion.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\OneDrive\\Escritorio\\Peliculas\\Modelo\\Conexion.cs",
+              "RelativeDocumentMoniker": "Modelo\\Conexion.cs",
+              "ToolTip": "C:\\Users\\danie\\OneDrive\\Escritorio\\Peliculas\\Modelo\\Conexion.cs",
+              "RelativeToolTip": "Modelo\\Conexion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-10T15:25:35.746Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2025-07-10T15:48:53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\OneDrive\\Escritorio\\Peliculas\\Modelo\\Usuario.cs",
+              "RelativeDocumentMoniker": "Modelo\\Usuario.cs",
+              "ToolTip": "C:\\Users\\danie\\OneDrive\\Escritorio\\Peliculas\\Modelo\\Usuario.cs",
+              "RelativeToolTip": "Modelo\\Usuario.cs",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAAAGoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T14:10:27.44Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "Multimedia1.png -  [Espa\u00F1ol (M\u00E9xico)] - PNG [1200x1200, 32 bits, PNG]",
+              "DocumentMoniker": "C:\\Users\\danie\\OneDrive\\Escritorio\\Peliculas\\Crud\\Resources\\Multimedia1.png",
+              "RelativeDocumentMoniker": "Crud\\Resources\\Multimedia1.png",
+              "ToolTip": "C:\\Users\\danie\\OneDrive\\Escritorio\\Peliculas\\Crud\\Resources\\Multimedia1.png -  [Espa\u00F1ol (M\u00E9xico)] - PNG [1200x1200, 32 bits, PNG]",
+              "RelativeToolTip": "Crud\\Resources\\Multimedia1.png -  [Espa\u00F1ol (M\u00E9xico)] - PNG [1200x1200, 32 bits, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-08-26T12:03:53.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmRegistrarUsuario.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\danie\\OneDrive\\Escritorio\\Peliculas\\Crud\\frmRegistrarUsuario.cs",
+              "RelativeDocumentMoniker": "Crud\\frmRegistrarUsuario.cs",
+              "ToolTip": "C:\\Users\\danie\\OneDrive\\Escritorio\\Peliculas\\Crud\\frmRegistrarUsuario.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Crud\\frmRegistrarUsuario.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T15:40:54.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmPrincipalRegistro.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\danie\\OneDrive\\Escritorio\\Peliculas\\Crud\\frmPrincipalRegistro.cs",
+              "RelativeDocumentMoniker": "Crud\\frmPrincipalRegistro.cs",
+              "ToolTip": "C:\\Users\\danie\\OneDrive\\Escritorio\\Peliculas\\Crud\\frmPrincipalRegistro.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Crud\\frmPrincipalRegistro.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T15:55:03.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frnLogin.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\danie\\OneDrive\\Escritorio\\Peliculas\\Crud\\frnLogin.cs",
+              "RelativeDocumentMoniker": "Crud\\frnLogin.cs",
+              "ToolTip": "C:\\Users\\danie\\OneDrive\\Escritorio\\Peliculas\\Crud\\frnLogin.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Crud\\frnLogin.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T15:21:48.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\danie\\OneDrive\\Escritorio\\Peliculas\\Peliculas\\Crud\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\OneDrive\\Escritorio\\Peliculas\\Crud\\Program.cs",
               "RelativeDocumentMoniker": "Crud\\Program.cs",
-              "ToolTip": "C:\\Users\\danie\\OneDrive\\Escritorio\\Peliculas\\Peliculas\\Crud\\Program.cs",
+              "ToolTip": "C:\\Users\\danie\\OneDrive\\Escritorio\\Peliculas\\Crud\\Program.cs",
               "RelativeToolTip": "Crud\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-10T16:50:35.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frnLogin.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\OneDrive\\Escritorio\\Peliculas\\Crud\\frnLogin.cs",
+              "RelativeDocumentMoniker": "Crud\\frnLogin.cs",
+              "ToolTip": "C:\\Users\\danie\\OneDrive\\Escritorio\\Peliculas\\Crud\\frnLogin.cs",
+              "RelativeToolTip": "Crud\\frnLogin.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAAADsAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T16:47:35.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "frmRegistrarUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\OneDrive\\Escritorio\\Peliculas\\Crud\\frmRegistrarUsuario.cs",
+              "RelativeDocumentMoniker": "Crud\\frmRegistrarUsuario.cs",
+              "ToolTip": "C:\\Users\\danie\\OneDrive\\Escritorio\\Peliculas\\Crud\\frmRegistrarUsuario.cs",
+              "RelativeToolTip": "Crud\\frmRegistrarUsuario.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAawCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T17:03:46.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "frmPeliculas.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\danie\\OneDrive\\Escritorio\\Peliculas\\Crud\\frmPeliculas.cs",
+              "RelativeDocumentMoniker": "Crud\\frmPeliculas.cs",
+              "ToolTip": "C:\\Users\\Estudiante\\Desktop\\Peliculas\\Crud\\frmPeliculas.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\Estudiante\\Desktop\\Peliculas\\Crud\\frmPeliculas.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T15:25:35.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "frnLogin.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\OneDrive\\Escritorio\\Peliculas\\Crud\\frnLogin.Designer.cs",
+              "RelativeDocumentMoniker": "Crud\\frnLogin.Designer.cs",
+              "ToolTip": "C:\\Users\\danie\\OneDrive\\Escritorio\\Peliculas\\Crud\\frnLogin.Designer.cs",
+              "RelativeToolTip": "Crud\\frnLogin.Designer.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAlwDgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T16:47:48.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "frmPrincipalRegistro.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\OneDrive\\Escritorio\\Peliculas\\Crud\\frmPrincipalRegistro.cs",
+              "RelativeDocumentMoniker": "Crud\\frmPrincipalRegistro.cs",
+              "ToolTip": "C:\\Users\\danie\\OneDrive\\Escritorio\\Peliculas\\Crud\\frmPrincipalRegistro.cs",
+              "RelativeToolTip": "Crud\\frmPrincipalRegistro.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAlwD0AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T16:35:01.586Z"
             }
           ]
         }
